@@ -18,3 +18,4 @@ describe 'fizzbuzz' do
     expect(fizzbuzz(n)).to eq n
   end
 end
+# the program 'can be called and passed a number from the terminal'
